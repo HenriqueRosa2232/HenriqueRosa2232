@@ -1,7 +1,7 @@
 ### Olá, me chamo Henrique Silva Rosa!
 ![Design sem nome (3)](https://github.com/HenriqueRosa2232/HenriqueRosa2232/assets/145032847/5d7e29bc-b420-417d-8b30-0a631619b435)
           
-<div>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <img height=85px; width=75px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height=85px; width=75px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img height=99px; width=85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
