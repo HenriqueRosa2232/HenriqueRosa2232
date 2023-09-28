@@ -14,8 +14,7 @@
 | SOBRE |
 :------:
 Formado em Informática com ênfase em Desenvolvimento de Sistemas pela Escola Politécnica de Minas Gerais Polimig, busco ingressar no mercado de trabalho em uma área correlata à minha formação.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueRosa2232&show_icons=true&theme=synthwave)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueRosa2232&show_icons=true&theme=synthwave)
 <hr/>
 <h3 align="center"> REDES SOCIAIS </h3>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
